@@ -55,7 +55,7 @@ Embedded computers adalah suatu mesin komputasi yang dibuat untuk ditanamkan ked
 ### [https://lutfinurhidayat1.github.io/Portofolio-Lutfi](https://lutfinurhidayat1.github.io/Portofolio-Lutfi/#TntgSy)
 
 # 15.) Artikel seputar informatic
-### [nano tech anti ageing](https://drive.google.com/uc?id=15Zuvgg_u2xmIuj4iTfjZyvQLeU14MRkt)
+### [nano tech anti aging](https://drive.google.com/uc?id=15Zuvgg_u2xmIuj4iTfjZyvQLeU14MRkt)
 
 # 16.) Mencoba Duolingo
 ![Duolingo](https://drive.google.com/uc?id=1unFhyK8sl-g8emL9nwppTdkLk0W17NWA)
