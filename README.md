@@ -42,23 +42,31 @@ Embedded computers adalah suatu mesin komputasi yang dibuat untuk ditanamkan ked
 # 10.) Aplikasi
 [ProjectApk](https://github.com/LutfiNurhidayat1/ProjectApk/blob/main/About_My_Apk.md)
 
-# 11.)
+# 11.) Profil github pages
+### [profil github pages](https://lutfinurhidayat1.github.io/Portofolio-Lutfi/#TntgSy)
 
-# 12.)
-
-# 13.)
-
-# 14.)
-
-# 16.) Web
+# 12.) Web
 ### [link web](https://lutfinurhidayat1.github.io/Portofolio-Lutfi/#TntgSy)
 
-# 17.)
+# 13.) Top github project yang di minati
+### [freecodecamp](https://drive.google.com/uc?id=1N3r69ZU_34DaTxEWkIwT8Hna_7tt3ojm)
 
-# 18.)
+# 14.) Web hosting
+### [https://lutfinurhidayat1.github.io/Portofolio-Lutfi](https://lutfinurhidayat1.github.io/Portofolio-Lutfi/#TntgSy)
 
-# 19.) Web hosting
-### [https://lutfinurhidayat1.github.io/Portofolio-Lutfi/#TntgSy](https://lutfinurhidayat1.github.io/Portofolio-Lutfi/#TntgSy)
+# 15.) Artikel seputar informatic
+### [nano tech anti ageing](https://drive.google.com/uc?id=15Zuvgg_u2xmIuj4iTfjZyvQLeU14MRkt)
+
+# 16.) Mencoba Duolingo
+![Duolingo](https://drive.google.com/uc?id=1unFhyK8sl-g8emL9nwppTdkLk0W17NWA)
+
+# 17.) Huging face
+![HUging Face](https://drive.google.com/uc?id=1lG9UlsbHYEbXdDshiAIC7ofAVPGhatK8)
+
+# 18.) Topic di Roadmap.sh
+![Roadmap code review](https://drive.google.com/uc?id=1C1-Lvvje-XZ8ZnY1yaSlcGV3JAq-1_v5)
+
+# 19.) 
 
 # 20.)
 
