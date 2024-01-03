@@ -66,11 +66,17 @@ Embedded computers adalah suatu mesin komputasi yang dibuat untuk ditanamkan ked
 # 18.) Topic di Roadmap.sh
 ![Roadmap code review](https://drive.google.com/uc?id=1C1-Lvvje-XZ8ZnY1yaSlcGV3JAq-1_v5)
 
-# 19.) 
+# 19.) Ai generating(chatGPT,Bing)
+### ChatGPT(Text to text AI)
+![texttotext](https://drive.google.com/uc?id=1Zo8NPTqUqDncKx8_km2FMkWmBwvsSSYs)
+### Bing(Text to image AI)
+![text to image](https://drive.google.com/uc?id=1OrcHfNW8BChGd7JODoCZA-VfsPDLMXWu)
 
-# 20.)
+# 20.) Melacak informasi server dari alamat domain
+![20](https://drive.google.com/uc?id=1pv0f6z4quaiBd9-3qTXnIqgsUwTuYOQA)
 
-# 21.)
+# 21.) Mencoba Penggunaan Content Management System (Wordpress)
+### [Artikel Wordpress sederhana](https://lutfi01nurhidayat0504.wordpress.com/2024/01/03/tujuan-seharusnya-dalam-membaca-al-quran/)
 
 # 22.)
 
